@@ -1,0 +1,6 @@
+{
+  "name": "Fluid Motion TV - Horizon Broadcast",
+  "description": "Interactive 4K broadcast experience featuring the WebGL Horizon Plasma Engine, Dragon Nine 54-minute clock, Tide Oracle telemetry, and cinematic scroll mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
